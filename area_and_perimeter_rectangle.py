@@ -20,6 +20,7 @@ def main():
     # output
     print("The area will be {0} cm²".format(area_of_rectangle))
     print("The perimeter will be {0} cm".format(perimeter_of_rectangle))
+    print("\nDone")
 
 
 if __name__ == "__main__":
